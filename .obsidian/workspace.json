@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/Minecraft/Play with friends 整合包.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/Minecraft/Play with friends 整合包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/Minecraft/Play with friends 整合包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/index.md"
+                "file": "笔记/Minecraft/Play with friends 整合包.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "190d0099de5a9e55",
   "lastOpenFiles": [
+    "笔记/index.md",
     "vite.config.ts.timestamp-1727192577954-c325a1d643a94.mjs",
     "vite.config.ts.timestamp-1727192467678-30df16311655f.mjs",
     "vite.config.ts.timestamp-1727192467678-3d0c387825692.mjs",
@@ -189,15 +190,12 @@
     "vite.config.ts.timestamp-1727192466341-5c1994c6a830a.mjs",
     "vite.config.ts.timestamp-1727192466341-379c067cb5901.mjs",
     "vite.config.ts.timestamp-1727192466341-a890db88083c1.mjs",
-    "vite.config.ts.timestamp-1727192466341-93f32a512f88.mjs",
     "public/avatar.svg",
     "public/android-chrome-192x192.png",
     "笔记/Minecraft/Play with friends 整合包.md",
-    "笔记/index.md",
     "笔记/🛠️ 开发/☝️ 我的站点/使用Nolebase搭建个人知识库.md",
     "笔记/Something/About ChatGPT.md",
     "笔记/🎮 Minecraft/Play with friends 整合包.md",
-    "笔记/index.md",
     "toc.md",
     "开源全平台/知识库-Logseq.md",
     "笔记/💾 资源分享/index.md",
