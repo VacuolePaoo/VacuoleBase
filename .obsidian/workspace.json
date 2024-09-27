@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cccc0465e634024a",
+        "id": "cf478db806470292",
         "type": "tabs",
         "children": [
           {
-            "id": "23ced030de662088",
+            "id": "bb72422a0c3274bf",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "74557838deecb13f",
+            "id": "4d3f7570b0dbff64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/别跟我扯这种集体荣誉感.md",
+                "file": "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/别跟我扯这种集体荣誉感.md",
+                "file": "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/别跟我扯这种集体荣誉感.md",
+                "file": "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/别跟我扯这种集体荣誉感.md"
+                "file": "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md"
               }
             }
           },
@@ -185,8 +185,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c71ba78932275122",
+  "active": "4d3f7570b0dbff64",
   "lastOpenFiles": [
+    "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md",
     "笔记/别跟我扯这种集体荣誉感.md",
     "笔记/🤯/一堆收藏",
     "笔记/🤯/胡说八道",
