@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cf478db806470292",
+        "id": "e17c1b9adb2b503e",
         "type": "tabs",
         "children": [
           {
-            "id": "bb72422a0c3274bf",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4d3f7570b0dbff64",
+            "id": "a37b13418c6cedcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md",
+                "file": "笔记/🤯/胡思乱想/笔记与成绩的负相关性.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md",
+                "file": "笔记/🤯/胡思乱想/笔记与成绩的负相关性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md",
+                "file": "笔记/🤯/胡思乱想/笔记与成绩的负相关性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md"
+                "file": "笔记/🤯/胡思乱想/笔记与成绩的负相关性.md"
               }
             }
           },
@@ -185,15 +176,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4d3f7570b0dbff64",
+  "active": "51f04df6035f2066",
   "lastOpenFiles": [
+    "笔记/Minecraft/Play with friends 整合包.md",
+    "笔记/🤯/胡思乱想/笔记与成绩的负相关性.md",
     "笔记/🤯/胡思乱想/如何在一小时内睡够八小时.md",
     "笔记/别跟我扯这种集体荣誉感.md",
     "笔记/🤯/一堆收藏",
     "笔记/🤯/胡说八道",
     "笔记/🤯/胡思乱想",
     "笔记/🤯",
-    "笔记/Minecraft/Play with friends 整合包.md",
     "笔记/index.md",
     "vite.config.ts.timestamp-1727192577954-c325a1d643a94.mjs",
     "vite.config.ts.timestamp-1727192467678-30df16311655f.mjs",
