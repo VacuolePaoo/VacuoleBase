@@ -24,14 +24,14 @@ export const creators: Creator[] = [
   {
     name: 'VacuolePao',
     avatar: '/avatar.svg',
-    username: 'vacuolepaoo',
+    username: 'VacuolePaoo',
     title: '知识库作者',
     desc: '专业做题家，业余开发者',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/vacuolepaoo' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/vacuolepao' },
     ],
-    nameAliases: ['vacuolepaoo', 'vacuole', '液泡', 'vcp'],
+    nameAliases: ['vacuolepaoo', 'vacuole', '液泡', 'VacuolePao', 'VacuolePaoo'],
     emailAliases: ['dacongminglcd@gmail.com'],
   },
   // {
