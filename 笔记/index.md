@@ -1,3 +1,8 @@
+![[Pasted image 20241007223617.png]]
+
+![[Pasted image 20241007223621.png]]
+
+
 ![[2bd90eaadea7b0ca5a150ceb6119740.png]]
 
 仝昨天买瑞幸的时候选错店铺了，找了半天没找到

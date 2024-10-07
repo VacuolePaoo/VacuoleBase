@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6aad51c5a7075b1e",
+        "id": "3b9265697f86f820",
         "type": "tabs",
         "children": [
           {
-            "id": "4f35c6751b425133",
+            "id": "7dc31e992ce6ea2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e4b2bcb8b4a73c13",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {}
             }
           }
         ]
@@ -185,10 +177,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f35c6751b425133",
+  "active": "7dc31e992ce6ea2a",
   "lastOpenFiles": [
-    "笔记/assets/caofan.png",
+    "笔记/assets/Pasted image 20241007223621.png",
+    "笔记/assets/Pasted image 20241007223617.png",
     "笔记/index.md",
+    "笔记/assets/caofan.png",
     "笔记/assets/This is the music.mp3",
     "笔记/assets/我都不想再看见671了 1.mp3",
     "笔记/assets/又笑啥呢.mp3",
