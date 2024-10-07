@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8cd4995d5814327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/index.md"
+                "file": "index.md"
               }
             }
           },
@@ -177,8 +190,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7dc31e992ce6ea2a",
+  "active": "d8cd4995d5814327",
   "lastOpenFiles": [
+    "笔记/index.md",
     "笔记/assets/Screenshot_2024-10-03-19-35-24-34_f9ee0578fe1cc94de7482bd41accb329.jpg",
     "笔记/assets/Screenshot_2024-10-03-19-35-59-14_f9ee0578fe1cc94de7482bd41accb329.jpg",
     "笔记/assets/Screenshot_2024-10-03-20-11-40-84_f9ee0578fe1cc94de7482bd41accb329.jpg",
@@ -186,7 +200,6 @@
     "笔记/assets/IMG20241003110934.jpg",
     "笔记/assets/IMG20241003164317.jpg",
     "笔记/assets/82c014f91518a9a17ee0cc901bcf6f1.jpg",
-    "笔记/index.md",
     "笔记/assets/Pasted image 20241007223621.png",
     "笔记/assets/Pasted image 20241007223617.png",
     "笔记/assets/caofan.png",
@@ -199,7 +212,6 @@
     "笔记/assets/发群里，气死我了.wav",
     "笔记/assets/啊？为什么.mp3",
     "笔记/assets/我都不想再看见671了.mp3",
-    "笔记/assets/9906e52060a028bbf03281baf9e8956.jpg",
     "笔记/assets",
     "笔记/Minecraft/未命名.md",
     "笔记/Minecraft/Forge通用基础模组列表.md",

@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: 加入 Discord 服务器
       link: https://disboard.org/zh-cn/server/1273078781241987134
+    - theme: alt
+      text: rainchat
+      link: https://chat.koyoz.com/chat/01163
     # - theme: alt
     #   text: GitHub 上浏览
     #   link: https://github.com/nolebase/nolebase
