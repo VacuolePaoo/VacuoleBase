@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3b9265697f86f820",
+        "id": "63f01ac3d03aee0a",
         "type": "tabs",
         "children": [
           {
-            "id": "7dc31e992ce6ea2a",
+            "id": "025ee867ba44e75d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8cd4995d5814327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "回忆/2024-10-03/G2Zoo with my best friends.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "回忆/2024-10-03/G2Zoo with my best friends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "回忆/2024-10-03/G2Zoo with my best friends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "回忆/2024-10-03/G2Zoo with my best friends.md"
               }
             }
           },
@@ -167,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,29 +176,33 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d8cd4995d5814327",
+  "active": "025ee867ba44e75d",
   "lastOpenFiles": [
+    "回忆/2024-10-03/G2Zoo with my best friends.md",
+    "回忆/2024-10-03/assets/IMG20241003110934.jpg",
+    "回忆/2024-10-03/assets/VID20241003113533.mp4",
+    "回忆/2024-10-03/assets/VID20241003113556.mp4",
+    "回忆/2024-10-03/assets/IMG20241003124326.jpg",
+    "回忆/2024-10-03/assets/VID20241003130316.mp4",
+    "回忆/2024-10-03/assets/IMG20241003164317.jpg",
+    "回忆/2024-10-03/assets/IMG20241003164336.jpg",
+    "回忆/2024-10-03/assets/Screenshot_2024-10-03-20-11-40-84_f9ee0578fe1cc94de7482bd41accb329.jpg",
+    "回忆/2024-10-03/assets/wx_camera_1727858231727.jpg",
+    "回忆/2024-10-03/assets",
+    "笔记/未命名.md",
+    "回忆/2024-10-3/未命名",
+    "回忆/2024-10-03",
     "笔记/index.md",
+    "回忆",
+    "日记/未命名",
+    "日记/2024-10-10.md",
+    "日记",
+    "index.md",
     "笔记/assets/Screenshot_2024-10-03-19-35-24-34_f9ee0578fe1cc94de7482bd41accb329.jpg",
     "笔记/assets/Screenshot_2024-10-03-19-35-59-14_f9ee0578fe1cc94de7482bd41accb329.jpg",
     "笔记/assets/Screenshot_2024-10-03-20-11-40-84_f9ee0578fe1cc94de7482bd41accb329.jpg",
     "笔记/assets/mmexport1727858739214.jpg",
-    "笔记/assets/IMG20241003110934.jpg",
-    "笔记/assets/IMG20241003164317.jpg",
-    "笔记/assets/82c014f91518a9a17ee0cc901bcf6f1.jpg",
-    "笔记/assets/Pasted image 20241007223621.png",
-    "笔记/assets/Pasted image 20241007223617.png",
-    "笔记/assets/caofan.png",
     "笔记/assets/This is the music.mp3",
-    "笔记/assets/我都不想再看见671了 1.mp3",
-    "笔记/assets/又笑啥呢.mp3",
-    "笔记/assets/我觉得他长得很丑.mp3",
-    "笔记/assets/我要去更新游戏了，拜拜.wav",
-    "笔记/assets/我嘞个烧刚.wav",
-    "笔记/assets/发群里，气死我了.wav",
-    "笔记/assets/啊？为什么.mp3",
-    "笔记/assets/我都不想再看见671了.mp3",
-    "笔记/assets",
     "笔记/Minecraft/未命名.md",
     "笔记/Minecraft/Forge通用基础模组列表.md",
     "笔记/Minecraft/Play with friends 整合包.md",
@@ -232,10 +222,6 @@
     "笔记/如何.md",
     "笔记/1111111/防晒.md",
     "笔记/1111111/未命名.md",
-    "笔记/💾宝藏软件/index.md",
-    "笔记/12121.md",
-    "日记/2024-09-15.md",
-    "2024-09-15.md",
-    "欢迎.md"
+    "笔记/💾宝藏软件/index.md"
   ]
 }
