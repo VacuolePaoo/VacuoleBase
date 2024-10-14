@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63f01ac3d03aee0a",
+        "id": "b90c7d46398a24d2",
         "type": "tabs",
         "children": [
           {
-            "id": "025ee867ba44e75d",
+            "id": "85e79470bbb515b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "回忆/2024-10-03/G2Zoo with my best friends.md",
+                "file": "日记/2024-10-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "回忆/2024-10-03/G2Zoo with my best friends.md",
+                "file": "日记/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "回忆/2024-10-03/G2Zoo with my best friends.md",
+                "file": "日记/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,25 +120,15 @@
             }
           },
           {
-            "id": "18cb9d0d06adfe77",
+            "id": "c71ba78932275122",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "回忆/2024-10-03/G2Zoo with my best friends.md"
-              }
-            }
-          },
-          {
-            "id": "1ef0656bbd17c09a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "git-view",
               "state": {}
             }
           },
           {
-            "id": "b57fc61bdef1641b",
+            "id": "0776d965e9cd3d8c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,15 +136,17 @@
             }
           },
           {
-            "id": "c71ba78932275122",
+            "id": "0eedc1efe637e519",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "日记/2024-10-14.md"
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,33 +168,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "025ee867ba44e75d",
+  "active": "85e79470bbb515b3",
   "lastOpenFiles": [
+    "日记/2024-10-10.md",
+    "日记/2024-10-14.md",
+    "日记/assets/7aeb6548c686d93956c0c32b666f119.png",
+    "日记/assets/Pasted image 20241014214637.png",
+    "日记/assets/Pasted image 20241014214626.png",
+    "vite.config.ts.timestamp-1728913222032-67ad8da531c14.mjs",
+    "笔记/index.md",
+    "日记/2024-10-13.md",
+    "日记/assets/2d2681f48b394eafb5f74c4ee05b3f8.jpg",
+    "日记/assets/2b067d9dbd48d7c152e0e6aad7bb85a.jpg",
+    "笔记/assets/bye.png",
+    "笔记/assets/Pasted image 20241013194157.png",
+    "日记/2024-10-12.md",
+    "日记/2024-10-11.md",
+    "日记/assets/bye.png",
+    "日记/assets/Pasted image 20241011234155.png",
+    "日记/assets/发群里，气死我了.wav",
+    "日记/assets",
     "回忆/2024-10-03/G2Zoo with my best friends.md",
     "回忆/2024-10-03/assets/IMG20241003110934.jpg",
     "回忆/2024-10-03/assets/VID20241003113533.mp4",
     "回忆/2024-10-03/assets/VID20241003113556.mp4",
-    "回忆/2024-10-03/assets/IMG20241003124326.jpg",
     "回忆/2024-10-03/assets/VID20241003130316.mp4",
-    "回忆/2024-10-03/assets/IMG20241003164317.jpg",
-    "回忆/2024-10-03/assets/IMG20241003164336.jpg",
-    "回忆/2024-10-03/assets/Screenshot_2024-10-03-20-11-40-84_f9ee0578fe1cc94de7482bd41accb329.jpg",
-    "回忆/2024-10-03/assets/wx_camera_1727858231727.jpg",
     "回忆/2024-10-03/assets",
     "笔记/未命名.md",
     "回忆/2024-10-3/未命名",
     "回忆/2024-10-03",
-    "笔记/index.md",
     "回忆",
-    "日记/未命名",
-    "日记/2024-10-10.md",
-    "日记",
     "index.md",
-    "笔记/assets/Screenshot_2024-10-03-19-35-24-34_f9ee0578fe1cc94de7482bd41accb329.jpg",
-    "笔记/assets/Screenshot_2024-10-03-19-35-59-14_f9ee0578fe1cc94de7482bd41accb329.jpg",
-    "笔记/assets/Screenshot_2024-10-03-20-11-40-84_f9ee0578fe1cc94de7482bd41accb329.jpg",
-    "笔记/assets/mmexport1727858739214.jpg",
-    "笔记/assets/This is the music.mp3",
     "笔记/Minecraft/未命名.md",
     "笔记/Minecraft/Forge通用基础模组列表.md",
     "笔记/Minecraft/Play with friends 整合包.md",
@@ -218,10 +214,6 @@
     "笔记/💾 资源分享/index.md",
     "笔记/💾 宝藏软件/开源全平台/Pasted.md",
     "笔记/📒学习笔记/🔬生物/未命名.md",
-    "笔记/pages/contents.md",
-    "笔记/如何.md",
-    "笔记/1111111/防晒.md",
-    "笔记/1111111/未命名.md",
-    "笔记/💾宝藏软件/index.md"
+    "笔记/pages/contents.md"
   ]
 }

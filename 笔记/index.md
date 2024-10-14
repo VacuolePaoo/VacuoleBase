@@ -1,3 +1,7 @@
+![[Pasted image 20241013194157.png]]
+
+![[笔记/assets/bye.png]]
+
 ![[Pasted image 20241007223617.png]]
 
 ![[Pasted image 20241007223621.png]]
